@@ -1,4 +1,4 @@
-package com.p1.modal;
+package com.p1.model;
 
 
 import javax.persistence.Entity;
@@ -9,7 +9,7 @@ import javax.persistence.Table;
 
 
 @Entity
-@Table(name="Employee")
+@Table(name="Employee_TBL")
 public class Employee {
 	
 	@Id

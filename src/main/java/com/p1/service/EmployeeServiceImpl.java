@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.p1.modal.Employee;
+import com.p1.model.Employee;
 import com.p1.repository.EmployeeRepository;
 
 @Service

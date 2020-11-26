@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import com.p1.modal.Employee;
+import com.p1.model.Employee;
 import com.p1.service.EmployeeService;
 
 @RestController
